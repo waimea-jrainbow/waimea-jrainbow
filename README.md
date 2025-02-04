@@ -1,16 +1,18 @@
-## Hi there 👋
+# Raven Rainbow
 
-<!--
-**waimea-jrainbow/waimea-jrainbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gender: Fluid
 
-Here are some ideas to get you started:
+Greeting I'm a student learning Digital technology at Waimea college.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I like:
+- Gaming
+- Physics 
+- Reading
+
+
+##Favourite things
+- Movie - Star wars Revenge of the sith
+- Videogame - Minecraft
+- Book -
+- Food - Macaroni Cheese
+- Series - Star wars Andor
