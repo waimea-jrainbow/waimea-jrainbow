@@ -10,9 +10,9 @@ Greeting I'm a student learning Digital technology at Waimea college.
 - Reading
 
 
-##Favourite things
+## Favourite things
 - Movie - Star wars Revenge of the sith
-- Videogame - Minecraft
-- Book -
+- Videogames - Minecraft
+- Book - Rebels of Allernia: Everburning
 - Food - Macaroni Cheese
 - Series - Star wars Andor
