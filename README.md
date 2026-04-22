@@ -1,7 +1,5 @@
 # Jaxon Rainbow
 
-Gender: Fluid
-
 Greeting I'm a student learning Digital technology at Waimea college.
 
 ## Things I like:
